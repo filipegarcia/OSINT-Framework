@@ -3567,11 +3567,6 @@
       "url": "http://publicrecords.searchsystems.net/"
     },
     {
-      "name": "Enigma",
-      "type": "url",
-      "url": "http://enigma.io/publicdata/"
-    },
-    {
       "name": "The World Bank Open Data Catalog",
       "type": "url",
       "url": "http://datacatalog.worldbank.org/"
